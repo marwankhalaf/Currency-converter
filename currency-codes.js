@@ -1,3 +1,5 @@
+// data info
+
 currencies = [
   "AED",
   "AFN",
